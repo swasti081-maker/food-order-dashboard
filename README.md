@@ -1,4 +1,4 @@
-::: {align="center"}
+
 # 🍽️ Food Order Dashboard
 
 ### 📊 Order Performance • Product Insights • State-wise Analysis

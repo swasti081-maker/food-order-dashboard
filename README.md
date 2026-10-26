@@ -93,7 +93,6 @@ Use the dashboard to investigate questions such as:
 ### 📍 Snapshot from the attached dashboard
 
 The visible KPI cards currently show:
-
   Metric               Displayed value
   ------------------ -----------------
   Total Sales                      794
@@ -145,7 +144,6 @@ split, and agent-wise order counts.
 ``` text
 Food-Order-Dashboard/
 ├── README.md
-├── food-order-dashboard.png
 └── food-order-dashboard.xlsx
 ```
 
@@ -175,4 +173,4 @@ explore food-order data through a single dashboard.
 **Made with 📊 Microsoft Excel and a love for data!**
 
 ⭐ *If you find this project useful, feel free to star the repository.*
-:::
+Connect : swasti081@gmail.com
